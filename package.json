@@ -63,7 +63,7 @@
     "babel-jest": "28.1.1",
     "babel-plugin-istanbul": "6.1.1",
     "babel-plugin-transform-imports": "^2.0.0",
-    "cypress": "9.6.1",
+    "cypress": "10.10.0",
     "eslint": "8.17.0",
     "eslint-loader": "4.0.2",
     "eslint-plugin-cypress": "2.12.1",
